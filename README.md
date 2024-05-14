@@ -10,6 +10,7 @@
  <!-- <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>-->
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
+  <code><img width="50" src="[https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)" alt="Python" title="Python"/></code>
 </div>
 <!---
 Sudha-Chandrika-Anil/Sudha-Chandrika-Anil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
